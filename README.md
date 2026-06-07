@@ -53,7 +53,8 @@ Sales consistently peak between May and August, indicating strong seasonality pa
 
 **5. Regional Sales Performance**
    
-    <img width="1224" height="883" alt="image" src="https://github.com/user-attachments/assets/bbc7ffed-7f04-4148-b100-f93eb4e10e1a" />
+  <img width="1224" height="883" alt="image" src="https://github.com/user-attachments/assets/4d85f583-5e1b-4d0a-9684-9ff6c5fcd639" />
+
 
 ### Key Insight
 Sales performance varies significantly across countries and product categories.
