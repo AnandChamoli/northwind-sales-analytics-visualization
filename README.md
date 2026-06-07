@@ -1,7 +1,7 @@
 # Northwind Traders Sales Analytics & Visualization
 
 ## Project Overview
-This project analyzes Northwind Traders sales data from 2021 to 2023 to identify customer, product, seasonal, and regional sales trends.
+This Business Analytics project analyzes Northwind Traders sales performance from 2021–2023 to identify customer behavior patterns, seasonal trends, product performance, and regional sales opportunities.
 
 ## Business Problem
 Northwind Traders wanted to understand revenue drivers, customer retention, acquisition decline, seasonal demand, product mix, and regional sales behavior.
@@ -36,6 +36,6 @@ Northwind Traders wanted to understand revenue drivers, customer retention, acqu
 - Plan inventory and promotions around seasonal peaks.
 
 ## Files
-- Final Report
+- Final Report (Final Analysis and RFP)
 - Presentation Deck
 - Dashboard Screenshots
